@@ -27,7 +27,7 @@ A simple React-based note-taking application inspired by Google Keep. It allows 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/keeper-app.git
+   git clone https://github.com/shruthipillala/keeper-app.git
    cd keeper-app
 2. **Install dependencies**
     ```bash
@@ -45,7 +45,7 @@ http://localhost:3000
 **Preview**
 ![alt text](src/Keeper.png)
 
-**Live Demo**
+**Live Demo**: https://shruthipillala.github.io/keeper-app/
 
-**repo**
+**repo** : https://github.com/shruthipillala/keeper-app
 
