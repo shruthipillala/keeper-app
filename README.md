@@ -43,7 +43,7 @@ http://localhost:3000
 
 
 **Preview**
-![alt text](Keeper.png)
+![alt text](src/Keeper.png)
 
 **Live Demo**
 
